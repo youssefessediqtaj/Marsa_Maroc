@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Import de Bootstrap */
+@import 'node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+/* Tes styles personnalisés */
+body {
+    background-color: #f0f0f0;
+}
